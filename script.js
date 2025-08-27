@@ -10,7 +10,7 @@ const testimonials = [
         text: "I was amazed by the wide variety of stylish and high-quality ladies garments offered by Nedhyam Textile Pvt. Ltd. The exceptional craftsmanship and attention to detail in each piece truly set them apart from the rest. I highly recommend Nedhyam Textile Pvt. Ltd. for all your fashion needs."
     },
     {
-        name: "shaily jordan",
+        // name: "shaily jordan",
         photourl: "https://images.unsplash.com/photo-1619895862022-09114b41f16f?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHVzZXJ8ZW58MHx8MHx8fDI%3D",
         text: "Nedhyam Textile Pvt. Ltd. offers a stunning collection of ladies garments that exceed expectations. The quality and style are unmatched, making every woman feel confident and elegant. I highly recommend their exquisite designs to anyone searching for premium clothing."
     },
